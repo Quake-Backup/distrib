@@ -127,3 +127,7 @@ While these installs are available, they are not the recommended method.  Use at
 * The UNQ2 Megapack
   * https://drive.google.com/file/d/1gjNw7Y16bcnp-04HLIRsPB8vwJwF-Yj5/view?usp=share_link
 * **Alex Axelsson** For new minelight model/skin replacements
+
+## License
+* Released under GPLv2 in accordance with the original source code from id Software.
+* Original Quake 2 male and female model files distributable via license with id Software / Zenimax
