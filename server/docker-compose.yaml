@@ -3,7 +3,7 @@ version: "3"
 services:
   tp1:
     container_name: teamplay1
-    image: replace_with_image_reference_from_readme
+    image: aqtiongame/server:v53
     # ports to map to host, cannot be in use and must correspond to same value as PORT variable in tp1.env
     ports:  
       - "27910:27910/udp"
@@ -25,7 +25,7 @@ services:
       - demos:/aq2server/action/demos
   dm1:
     container_name: dm1
-    image: replace_with_image_reference_from_readme
+    image: aqtiongame/server:v53
     # ports to map to host, cannot be in use and must correspond to same value as PORT variable in dm1.env
     ports:  
       - "27920:27920/udp"
@@ -47,7 +47,7 @@ services:
       - demos:/aq2server/action/demos
   tdm1:
     container_name: tdm1
-    image: replace_with_image_reference_from_readme
+    image: aqtiongame/server:v53
     # ports to map to host, cannot be in use and must correspond to same value as PORT variable in tdm1.env
     ports:  
       - "27930:27930/udp"
@@ -69,7 +69,7 @@ services:
       - demos:/aq2server/action/demos
   3team1:
     container_name: 3team1
-    image: replace_with_image_reference_from_readme
+    image: aqtiongame/server:v53
     # ports to map to host, cannot be in use and must correspond to same value as PORT variable in 3team1.env
     ports:  
       - "27940:27940/udp"

@@ -33,7 +33,7 @@ Great!  Hosting a server is a great way to contribute to the community and helps
 ### Step by step
 
 Use the following Docker images
-* Official (AMD64 and ARM arch): `aqtiongame/server:v50`
+* Official (AMD64 and ARM arch): `aqtiongame/server:v53`
 * Espionage: `aqtiongame/espionage:v27`
 
 1. If you have docker and docker-compose already, skip to step 3
